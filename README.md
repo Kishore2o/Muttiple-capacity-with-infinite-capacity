@@ -67,4 +67,4 @@ print("--------------------------------------------------------------")
 
 
 ## Result : 
-
+Thus the average number of materials in the system and conveyor, waiting time of each material in the system and conveyor is found successfully.
